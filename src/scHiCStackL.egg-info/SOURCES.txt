@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/scHiCStackL/__init__.py
+src/scHiCStackL/scHiCStackL.py
+src/scHiCStackL.egg-info/PKG-INFO
+src/scHiCStackL.egg-info/SOURCES.txt
+src/scHiCStackL.egg-info/dependency_links.txt
+src/scHiCStackL.egg-info/top_level.txt
