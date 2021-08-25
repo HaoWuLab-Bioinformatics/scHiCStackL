@@ -1,6 +1,6 @@
 # scHiCStackL
 ## Introduction
-scHiCStackL is a comprehensive python package for cell type prediction using single-cell Hi-C data. scHiCStackL contains a two-layer stacking ensemble model. The stacking ensemble learning-based model is comprised of Ridge Regression (RR) classifier and Logistic Regression (LR) classifier as the base-classifiers (i.e., first-level) and Gaussian Naive Bayes (GaussianNB) classifier as the meta-classifier (i.e., second-level).
+scHiCStackL is a comprehensive python package for cell type prediction using single-cell Hi-C data. scHiCStackL contains a two-layer stacking learning-based ensemble model. The stacking ensemble learning-based model is comprised of Ridge Regression (RR) classifier and Logistic Regression (LR) classifier as the base-classifiers (i.e., first-level) and Gaussian Naive Bayes (GaussianNB) classifier as the meta-classifier (i.e., second-level).
 
 ### Installing scHiCStackL:
 Download the zip file of the scHiCStackL project, and install the python package through the following one of the two methods:
